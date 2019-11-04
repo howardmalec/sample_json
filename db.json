@@ -1,9 +1,6 @@
-{
-	"labels": ["January", "February", "March", "April"],
-	"datasets": [{
-		"label": "My First dataset",
-		"fill": "false",
-		"lineTension": "0.1",
-		"data": [65, 59, 80, 81, 56, 55, 40]
-	}]
-}
+[
+  ["Age", "Weight"],
+  [8, 12],
+  [4, 5.5],
+  [11, 14]
+]
