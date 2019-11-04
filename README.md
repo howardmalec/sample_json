@@ -1,0 +1,1 @@
+go to http://my-json-server.typicode.com/howardmalec/sample_json/db to test API functionality
